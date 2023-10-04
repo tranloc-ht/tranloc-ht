@@ -18,7 +18,7 @@ I am currently working in digital marketing and have a passion for using data to
 📊 **Skills**: Digital Marketing Strategy, Google Analytics, Google Ads, Email Marketing, Social Media Management
 
 🎓 **Education**: 
-- Bachelor's in Marketing from [HUtech University](https://youruniversityurl.com/)
+- Bachelor's in Digital Marketing from [Hutech University](https://youruniversityurl.com/)
 
 ### Let's Connect!
 - 📫 Feel free to reach out to me via [Email](mailto:tranloc.marketing@gmail.com)
